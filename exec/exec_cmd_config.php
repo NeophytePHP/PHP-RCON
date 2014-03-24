@@ -6,7 +6,7 @@
 require("rcon.class.php");
 
 // Change this to the root directory of your SMF forum to where SSI.php is located. 
-require("/SSI.php");
+// require("/SSI.php");
 
 // Fill this out accordingly
 $setup = array( 
