@@ -10,9 +10,9 @@ require("rcon.class.php");
 
 // Fill this out accordingly
 $setup = array( 
-    "31.186.251.181", 	// Server IP
+    "", 				// Server IP
 	"27024", 			// Server PORT
-    "flappyb1rd_sucks", // RCON Password
+    "", 				// RCON Password
 	"ulx", 				// Admin Mod
 	"", 				// Group ID (Not in use yet)
 );
