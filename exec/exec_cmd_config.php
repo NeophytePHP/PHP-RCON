@@ -1,6 +1,6 @@
 <?php 
 // Quick rcon PHP script for SMF.
-// By Neo.
+// By http://neophytephp.com/
 
 // Require wibbly wobbly timey wimey stuff
 require("rcon.class.php");
@@ -10,9 +10,9 @@ require("/SSI.php");
 
 // Fill this out accordingly
 $setup = array( 
-    "74.91.116.135", 	// Server IP
-	"2705", 			// Server PORT
-    "rconpassmex", 		// RCON Password
+    "31.186.251.181", 	// Server IP
+	"27024", 			// Server PORT
+    "flappyb1rd_sucks", // RCON Password
 	"ulx", 				// Admin Mod
 	"", 				// Group ID (Not in use yet)
 );

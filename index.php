@@ -1,5 +1,5 @@
 <?php
-	require("/exec/exec_cmd.php");
+	require("/exec/exec_cmd_config.php");
 	error_reporting(0);
 	$allowed_groups = array(1); // << Allowed users array (1,2,3,4,5)
 		$can_see = FALSE;
